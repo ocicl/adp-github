@@ -4,6 +4,6 @@ ADP extension to generate github-markdown files.
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/Hectarea1996/adp-github.git |
-| commit  | 645e43c                                            |
+| commit  | c7f083c                                            |
 | systems | adp-github                                         |
 |---------+----------------------------------------------------|
